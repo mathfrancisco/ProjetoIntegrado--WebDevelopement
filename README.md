@@ -67,6 +67,18 @@ sistema-gestao-produtos/
 
 ## 🚀 Como Usar o Sistema
 
+### Instalação
+```bash
+git clone https://github.com/seu-usuario/sistema-gestao-produtos.git
+cd sistema-gestao-produtos
+```
+
+### Executar a Aplicação
+```bash
+npm install
+npm start
+```
+
 ### 1. Página Inicial
 - Ao abrir o sistema, você verá a lista completa de produtos
 - Use a barra de busca para encontrar produtos específicos
@@ -128,20 +140,6 @@ O sistema é totalmente responsivo e funciona perfeitamente em:
 - **Mobile**: Layout vertical com 1 produto por linha
 - **Menu mobile**: Navegação otimizada para telas pequenas
 
-## 🎨 Design e Interface
-
-### Cores e Tema
-- **Cor Principal**: Azul (#3B82F6)
-- **Cor Secundária**: Cinza (#6B7280)
-- **Fundo**: Branco e tons de cinza claro
-- **Acentos**: Verde para sucesso, Vermelho para exclusão
-
-### Componentes Visuais
-- **Cards de Produto**: Design limpo com informações organizadas
-- **Botões**: Estilo moderno com hover effects
-- **Formulários**: Campos bem espaçados e labels claras
-- **Ícones**: Biblioteca Lucide para consistência visual
-
 ## 🔧 Configuração Técnica
 
 ### Pré-requisitos
@@ -158,7 +156,6 @@ O sistema pode ser facilmente hospedado em:
 - **Netlify**: Drag & drop dos arquivos
 - **Vercel**: Deploy automático
 - **GitHub Pages**: Hospedagem gratuita
-- **Servidor local**: Usando Live Server ou similar
 
 ## 📊 Dados e Funcionalidades Técnicas
 
@@ -178,12 +175,6 @@ O sistema pode ser facilmente hospedado em:
 - Busca instantânea conforme digitação
 - Renderização otimizada de listas
 
-## 🎯 Próximas Funcionalidades (Roadmap)
 
-### Versão 2.0
-- [ ] Sistema de login e autenticação
-- [ ] Relatórios de estoque
-- [ ] Exportação de dados (PDF/Excel)
-- [ ] Histórico de alterações
-- [ ] Backup automático
+
 
