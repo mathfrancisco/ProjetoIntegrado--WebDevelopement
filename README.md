@@ -1,5 +1,7 @@
 # Sistema de Gestão de Produtos - Comercial Pereira - Projeto Integrado Web Developement
 
+## Realizador por : Matheus Francisco RA 24001882
+
 ## 📋 Sobre o Projeto
 
 Sistema web desenvolvido para a **Comercial Pereira**, empresa especializada em comércio atacadista e varejista de diversos produtos como equipamentos domésticos, embalagens, cosméticos, artigos de cama/mesa/banho, papelaria, ferragens e material elétrico.
